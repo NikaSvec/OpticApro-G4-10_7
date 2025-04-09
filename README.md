@@ -204,6 +204,3 @@ four different models. Specifically:
     ```
   
   - to execute macro in OpenGL type: `/control/execute run1.mac`
-
-# OpticApro-G4-10_7
-# OpticApro-G4-10_7
